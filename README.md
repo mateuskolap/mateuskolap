@@ -1,6 +1,6 @@
 ## 🪐 Sobre mim:
 
-<h1> Olá, me chamo Mateus! </h1>
+Olá, me chamo Mateus!
 Estou iniciando meus estudos na área de Tecnologia da Informação.
 Seja bem vindo ao meu perfil!
 
@@ -10,7 +10,7 @@ Seja bem vindo ao meu perfil!
 
 ## 📖 Aprendendo
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>
 
 ## ☕ Aonde me contatar 
 

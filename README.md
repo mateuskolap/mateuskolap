@@ -1,6 +1,6 @@
 ## 🪐 Sobre mim:
 
-Olá, me chamo Mateus.
+Olá, me chamo Mateus.<br>
 Trabalho como Analista de Dados no Centro Universitário Cidade Verde!
 
 ## 📖 Aprendendo

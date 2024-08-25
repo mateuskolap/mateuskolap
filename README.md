@@ -1,12 +1,7 @@
 ## 🪐 Sobre mim:
 
-Olá, me chamo Mateus!
-Estou iniciando meus estudos na área de Tecnologia da Informação.
-Seja bem vindo ao meu perfil!
-
-- 🤔 Buscando sempre o aperfeiçoamento das habilidades por meio da prática.
-- 🎓 Estudando *Análise Desenvolvimento de Sistemas* na <a href="https://unicv.edu.br/">UNICV</a>.
-- 🌱 Atualmente estudando sobre Banco de Dados, Python e C.
+Olá, me chamo Mateus.
+Trabalho como Analista de Dados no Centro Universitário Cidade Verde!
 
 ## 📖 Aprendendo
 

@@ -1,6 +1,6 @@
-## 👋 Olá, me chamo Mateus
 
-Sou um **Desenvolvedor Full Stack Web**, com foco em **desenvolvimento com PHP e Vue3 com Vite**.
+## 👋 Olá, me chamo Mateus
+Sou Desenvolvedor Full Stack Web, especializado em PHP (Laravel) e Vue3 com TypeScript, criando soluções modernas e escaláveis para a web.
 
 ---
 
